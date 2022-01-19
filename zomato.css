@@ -308,10 +308,6 @@ h5 {
     justify-content: space-evenly;
 }
 
-.logo {
-    filter: grayscale(100%);
-}
-
 .content {
     padding-top: 60px;
     color: white;
